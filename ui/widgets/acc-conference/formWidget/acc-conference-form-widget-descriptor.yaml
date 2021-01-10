@@ -1,0 +1,6 @@
+code: acc-conference-form-widget
+titles:
+  en: Acc Conference Form Widget
+  it: Acc Conference Form Widget
+group: free
+customUiPath: acc-conference-form-widget.ftl

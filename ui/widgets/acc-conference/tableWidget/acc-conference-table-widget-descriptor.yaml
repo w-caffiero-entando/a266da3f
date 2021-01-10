@@ -1,0 +1,6 @@
+code: acc-conference-table-widget
+titles:
+  en: Acc Conference Table Widget
+  it: Acc Conference Table Widget
+group: free
+customUiPath: acc-conference-table-widget.ftl

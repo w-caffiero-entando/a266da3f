@@ -1,0 +1,6 @@
+code: acc-conference-details-widget
+titles:
+  en: Acc Conference Details Widget
+  it: Acc Conference Details Widget
+group: free
+customUiPath: acc-conference-details-widget.ftl
