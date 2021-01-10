@@ -1,0 +1,13 @@
+code: mybundleverylongname
+description: This is the myBundleVeryLongName bundle
+
+components:
+  plugins:
+    - plugins/mybundleverylongname-plugin.yaml
+
+  widgets:
+    - ui/widgets/acc-conference/tableWidget/acc-conference-table-widget-descriptor.yaml
+    - ui/widgets/acc-conference/detailsWidget/acc-conference-details-widget-descriptor.yaml
+    - ui/widgets/acc-conference/formWidget/acc-conference-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
